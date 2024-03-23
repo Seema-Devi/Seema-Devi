@@ -8,18 +8,18 @@ I'm Seema Devi, currently immersing myself in Cloud and DevOps studies at Missio
 
 
 - 🔭 I’m currently working on enhancing my skills in Cloud Computing and DevOps practices.
-- 
+  
 - 🌱 I’m currently learning about AWS, Docker, Kubernetes, and CI/CD pipelines.
-- 
+  
 - 👯 I’m looking to collaborate on projects that involve building scalable and efficient web applications.
-- 
+  
 - 💬 I know bit about JavaScript, Node.js, MongoDB, Agile Methodologies, or anything related to full-stack development.
-- 
+  
 - 📫 How to reach me: Seema.panwar09@gmail.com
-- 
+  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new hiking trails and capturing beautiful landscapes with my mobile.
-- 
+  
 
 ---
 

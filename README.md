@@ -30,7 +30,7 @@ Here are some of my top skills:
 - Hiking and Outdoor Adventures
 - Photography
 - Cooking
-- Reading Technology Blogs
+
  
 ## Get in Touch
 

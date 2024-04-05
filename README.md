@@ -13,7 +13,7 @@ I'm Seema Devi, currently immersing myself in Cloud and DevOps studies at Missio
   
 - 👯 I’m looking to collaborate on projects that involve building scalable and efficient web applications.
   
-- 💬 I know bit about JavaScript, Node.js, MongoDB, Agile Methodologies, or anything related to full-stack development.
+- 💬 I know about JavaScript, Node.js, MongoDB, Agile Methodologies, or anything related to full-stack development.
   
 - 📫 How to reach me: Seema.panwar09@gmail.com
   

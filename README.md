@@ -3,7 +3,7 @@
 ## About Me
 
 
-I'm Seema Devi, currently immersing myself in Cloud and DevOps Developer studies at Mission Ready. As a junior full-stack developer, I'm driven by a fervent desire to transform concepts into practical, user-friendly web applications. I'm enthusiastic about applying my skills to impactful projects and embracing the dynamic landscape of software development.
+I'm Seema Devi, currently immersing myself in Full Stack Developer specializing in Cloud and DevOps studies at Mission Ready. As a junior full-stack developer, I'm driven by a fervent desire to transform concepts into practical, user-friendly web applications. I'm enthusiastic about applying my skills to impactful projects and embracing the dynamic landscape of software development.
 
 
 

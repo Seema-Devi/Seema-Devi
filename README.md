@@ -1,57 +1,44 @@
- # Hi there, I'm Seema Devi! 👋
- 
-## About Me
+ # 👋 Hi there, I'm Seema Devi!
 
+## 💡 About Me
 
-I'm Seema Devi, currently immersing myself in Full Stack Developer specializing in Cloud and DevOps studies at Mission Ready. As a junior full-stack developer, I'm driven by a fervent desire to transform concepts into practical, user-friendly web applications. I'm enthusiastic about applying my skills to impactful projects and embracing the dynamic landscape of software development.
+I'm an enthusiastic **AI Developer** with a strong foundation in full-stack development and a growing passion for building intelligent, real-world applications using Large Language Models (LLMs). I specialize in using tools like **LangChain**, **OpenAI**, and **vector databases** to create conversational AI systems and automation solutions.
 
+My journey started with JavaScript, React, and Node.js — and has grown into building powerful tools that combine **Python-based AI backends** with seamless frontend user experiences.
 
-
-- 🔭 Currently, I'm focused on enhancing my skills in Cloud Computing and DevOps practices.
-  
-- 🌱 I'm actively learning about AWS, Docker, Kubernetes, and CI/CD pipelines to stay ahead in the field.
-  
-- 👯 I’m looking to collaborate on projects that involve building scalable and efficient web applications.
-  
-- 💬 I know about JavaScript, Node.js, MongoDB, Agile Methodologies, or anything related to full-stack development.
-  
-- 📫 Feel free to reach out to me at: Seema.panwar09@gmail.com
-  
+- 🔭 Currently focused on Retrieval-Augmented Generation (RAG), LLM chaining, and AI app deployment.
+- 🌱 Learning advanced model evaluation, prompt engineering, and scalable API design.
+- 💬 Tech I speak: Python, JavaScript, React, FastAPI, LangChain, Docker.
+- 👯 Looking to collaborate on LLM-powered applications and AI automation tools.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love experimenting with new recipes in the kitchen—it's my creative outlet. Traveling is also a big passion of mine, and I enjoy immersing myself in new cultures through their cuisines.
-  
+- ⚡ Fun fact: I love exploring the intersection of cooking and technology – both are creative processes that require precision and passion!
 
 ---
 
-## Top Skills
+## 🚀 Projects
 
-Here are some of my top skills:
-
-- JavaScript
-- Node.js
-- ReactJS
-- MongoDB
-- Agile Methodologies
-- GitHub
-- Docker
+- 🤖 [AI-Powered Document Q&A Bot](#) — LangChain + OpenAI + ChromaDB
+- 💬 [React + Python AI Assistant UI](#) — Multi-turn chatbot frontend
+- 🧠 [Gastric Wellbeing App (Internship)](#) — Health tracking with plans for AI integration
 
 ---
 
-## Interests
+## 🛠️ Skills
 
-- Hiking and Outdoor Adventures
-- Photography
-- Cooking
+- **AI & LLMs**: OpenAI, LangChain, RAG, Prompt Chaining
+- **Backend**: Python, FastAPI, Node.js, MongoDB
+- **Frontend**: React, TailwindCSS, Responsive UI
+- **DevOps**: Docker, CI/CD, GitHub Actions, Netlify, Render
+- **Extras**: Git, VSCode, Agile, NLP, Teaching
 
- 
-## Get in Touch
+---
 
-- LinkedIn: www.linkedin.com/in/seema-devi-bb565522b
-- GitHub: https://github.com/Seema-Devi
-- Email: Seema.panwar09@gmail.com
+## 📫 Let's Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/seema-devi-bb565522b)
+- 💻 [GitHub](https://github.com/Seema-Devi)
+- 📧 seema.panwar09@gmail.com
 
 <!---
 Seema-Devi/Seema-Devi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->

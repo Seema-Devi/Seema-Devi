@@ -166,7 +166,7 @@ Software Developer (AI & Cloud)
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: <PRIVATE_URL>
+- 💼 LinkedIn: https://www.linkedin.com/in/seema-d-bb565522b/
 - 💻 GitHub: https://github.com/seema-devi
 - 📧 Email: seema.panwar09@gmail.com
 
